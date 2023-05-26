@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Container, Row, Col, Modal, Button } from 'react-bootstrap';
+import { Container, Row, Col } from 'react-bootstrap';
 import { paragraphs } from "./CompanyDescription";
 import FormComponent from './FormComponent';
 import ThankYouModal from './ThankYouModal';
